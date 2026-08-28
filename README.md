@@ -1,50 +1,54 @@
 <div align="center">
 
-  # 👋 Kumusta! I'm Melwin Dave D. Abe
-  ### 🚀 Full-Stack Developer & Software Engineer
+  <!-- Main Cyberpunk Animated Header Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&width=620&height=70&lines=MELWIN+DAVE+D.+ABE;FULL-STACK+ENGINEER;VUE.JS+%E2%80%A2+PHP+LARAVEL" alt="Melwin Dave Header" />
 
-  <p align="center">
-    <strong>Building Clean, Scalable &amp; High-Performance Web Applications</strong>
-  </p>
-
-  <!-- Animated Typing Line (Compact & Responsive - Won't get cut off) -->
-  <a href="https://abemelwin.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&height=40&lines=Vue.js+3+%E2%80%A2+PHP+Laravel+%E2%80%A2+TypeScript;Full-Stack+Web+Architecture;Available+for+Freelance+%26+Full-Time" alt="Typing Skills" />
-  </a>
+  <!-- Subtitle Typing Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&width=580&height=35&lines=%E2%9A%A1+Architecting+Modern%2C+High-Performance+Web+Apps;%F0%9F%9A%80+Full-Stack+Architect+%7C+Frontend+%26+Cloud+APIs;%F0%9F%9F%A2+Open+for+Freelance+Inquiries+%26+Full-Time+Roles" alt="Sub typing" />
 
   <br />
-  <br />
 
-  <!-- Action Badges -->
+  <!-- Quick Action Navigation Dock -->
   <p align="center">
     <a href="https://abemelwin.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
     </a>
     &nbsp;
     <a href="mailto:abemelwin01@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Email_Me-06B6D4?style=for-the-badge&logoColor=white" alt="Email Dave" />
+      <img src="https://img.shields.io/badge/✉️_Hire_/_Email_Me-06B6D4?style=for-the-badge&logoColor=white" alt="Email Dave" />
     </a>
     &nbsp;
     <a href="https://abemelwin.github.io/portfolio/ABE_MELWIN%20DAVE_RESUME.pdf">
-      <img src="https://img.shields.io/badge/📄_Download_CV-EC4899?style=for-the-badge&logoColor=white" alt="Download CV" />
+      <img src="https://img.shields.io/badge/📄_Download_CV-EC4899?style=for-the-badge&logoColor=white" alt="Download Resume" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=abemelwin&color=6366f1&style=for-the-badge&label=VISITORS" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ Developer Terminal
 
-```typescript
-const melwinDave = {
+```bash
+dave@portfolio:~$ neofetch --melwin-dave
+```
+
+```javascript
+const developer = {
   name: "Melwin Dave D. Abe",
-  title: "Full-Stack Web Developer",
-  experience: "3+ Years in Production & Freelance",
-  currentRole: "Web Developer @ ES Print Media Inc.",
+  role: "Full-Stack Developer & Software Engineer",
+  company: "ES Print Media Inc. (Present 2026) & Freelance",
   education: "B.S. in Computer Engineering — STI College Batangas",
-  coreStack: ["Vue.js 3", "PHP Laravel", "TypeScript", "Node.js", "MySQL"],
-  status: "🟢 Available for Freelance & Career Opportunities"
+  location: "Philippines 🇵🇭",
+  coreSkills: {
+    frontend: ["Vue.js 2 & 3", "TypeScript", "React", "Next.js", "Tailwind CSS", "GSAP"],
+    backend:  ["PHP", "Laravel Framework", "Node.js", "Express.js", "RESTful APIs"],
+    database: ["MySQL", "PostgreSQL", "MongoDB", "Supabase", "Firebase"],
+    devops:   ["Docker", "Git", "GitHub Actions", "Vercel", "Netlify", "Postman"]
+  },
+  availableForHire: true
 };
 ```
 
@@ -54,8 +58,9 @@ const melwinDave = {
 
 <div align="center">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,ts,js,react,nextjs,nuxtjs,tailwind,html,css,php,laravel,nodejs,express,mysql,postgres,mongodb,supabase,firebase,docker,git,github,postman,vercel,netlify&perline=12" alt="Tech Skills Grid" />
+  <!-- Interactive 3D Skill Icons -->
+  <a href="https://abemelwin.github.io/portfolio/">
+    <img src="https://skillicons.dev/icons?i=vue,ts,js,react,nextjs,nuxtjs,tailwind,html,css,php,laravel,nodejs,express,mysql,postgres,mongodb,supabase,firebase,docker,git,github,postman,vercel,netlify&perline=12" alt="My Tech Stack" />
   </a>
 
 </div>
@@ -64,30 +69,45 @@ const melwinDave = {
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **🎨 Frontend** | `Vue.js (2 & 3)`, `TypeScript`, `React`, `Next.js`, `Nuxt.js`, `Tailwind CSS`, `GSAP`, `Pinia`, `HTML5 / CSS3` |
-| **⚡ Backend** | `PHP`, `Laravel Framework`, `Node.js`, `Express.js`, `RESTful APIs`, `GraphQL`, `JWT / OAuth 2.0` |
-| **🗄️ Databases** | `MySQL`, `PostgreSQL`, `MongoDB`, `Supabase`, `Firebase Firestore` |
-| **🛠️ DevOps & Tools** | `Docker`, `Git & GitHub`, `Postman`, `Vercel`, `Netlify`, `Twilio SMS`, `Google Apps Script` |
+| **🎨 Modern Frontend** | `Vue.js (2 & 3)`, `TypeScript`, `JavaScript (ES6+)`, `React`, `Next.js`, `Nuxt.js`, `Tailwind CSS`, `GSAP Animations`, `Pinia`, `HTML5 / CSS3` |
+| **⚡ Backend Architecture** | `PHP`, `Laravel Framework`, `Node.js`, `Express.js`, `RESTful APIs`, `GraphQL`, `JWT / OAuth 2.0 Auth` |
+| **🗄️ Databases & Cloud** | `MySQL`, `PostgreSQL`, `MongoDB`, `Supabase`, `Firebase Firestore`, `Database Modeling & ORMs` |
+| **🛠️ DevOps, Tools & Services** | `Docker`, `Git & GitHub`, `Postman`, `Vercel`, `Netlify`, `Twilio SMS API`, `Google Apps Script`, `CI/CD` |
 
 ---
 
-### 📊 GitHub Activity & Insights
+### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abemelwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b0b14&title_color=06b6d4&icon_color=6366f1&text_color=c5c8de" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abemelwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b14&title_color=06b6d4&text_color=c5c8de" alt="Top Languages" width="48%" />
+  <!-- GitHub Stats & Top Languages Side by Side -->
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=abemelwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1&text_color=C5C8DE" alt="Dave's GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abemelwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C5C8DE" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <br />
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abemelwin&theme=tokyonight&hide_border=true&background=0B0B14&ring=6366F1&fire=EC4899&currStreakLabel=06B6D4" width="97%" alt="GitHub Streak" />
+  <!-- Streak Stats Banner -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abemelwin&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=06B6D4" width="100%" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 💼 Experience & Achievements
+
+- 🏢 **Web Developer @ ES Print Media Inc. (Present 2026)** — Engineering scalable enterprise ERP systems, automated print order workflows, and secure RESTful database architecture.
+- 🚀 **Full-Stack Freelance Engineer (2023 — Present)** — Delivering end-to-end custom web applications, reactive single-page dashboards (Vue/React), payment integrations, and cloud deployments.
+- 🎓 **Bachelor of Science in Computer Engineering (STI College Batangas)** — Comprehensive background in software architecture, network systems, hardware design, and algorithms.
+
+---
+
+### 📬 Let's Connect & Build Something Great
 
 <div align="center">
 
@@ -108,5 +128,5 @@ const melwinDave = {
 <br />
 
 <div align="center">
-  <sub>⭐ Built by <strong>Melwin Dave D. Abe</strong></sub>
+  <sub>⚡ Designed & Crafted with precision by <strong>Melwin Dave D. Abe</strong></sub>
 </div>
