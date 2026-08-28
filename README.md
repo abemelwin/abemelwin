@@ -1,20 +1,17 @@
 <div align="center">
 
-  <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:6366f1,100:a855f7&height=180&text=Melwin%20Dave%20D.%20Abe&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Vue.js%20%26%20PHP%20Laravel%20Engineer&descSize=16&descColor=e0e7ff&descAlignY=68&stroke=00000000" width="100%" alt="Melwin Dave Header Banner" />
-
-  <!-- Animated Role Cycler -->
+  <!-- 100% Reliable GitHub Hosted SVG Banner -->
   <a href="https://abemelwin.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=2400&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&height=40&lines=Building+Scalable+Full-Stack+Web+Applications;Vue.js+3+%E2%80%A2+PHP+Laravel+%E2%80%A2+TypeScript;Open+for+Freelance+%26+Full-Time+Roles" alt="Dynamic Role" />
+    <img src="https://raw.githubusercontent.com/abemelwin/portfolio/main/header.svg" width="100%" alt="Melwin Dave D. Abe - Full-Stack Developer" />
   </a>
 
   <br />
   <br />
 
-  <!-- Floating Navigation Dock -->
+  <!-- Action Badges Dock -->
   <p align="center">
     <a href="https://abemelwin.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
     </a>
     &nbsp;
     <a href="mailto:abemelwin01@gmail.com">
@@ -22,11 +19,7 @@
     </a>
     &nbsp;
     <a href="https://abemelwin.github.io/portfolio/ABE_MELWIN%20DAVE_RESUME.pdf">
-      <img src="https://img.shields.io/badge/📄_Resume_PDF-EC4899?style=for-the-badge&logoColor=white" alt="Resume" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/abemelwin">
-      <img src="https://img.shields.io/badge/🟢_Available_for_Hire-10B981?style=for-the-badge&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/📄_Download_CV-EC4899?style=for-the-badge&logoColor=white" alt="Resume" />
     </a>
   </p>
 
@@ -34,33 +27,33 @@
 
 ---
 
-### 🧩 Bento Box Profile Overview
+### 🧩 Profile Overview
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>👨‍💻 About Melwin Dave</h3>
       <p>
-        I'm a passionate <strong>Full-Stack Developer</strong> specializing in reactive frontend architectures with <strong>Vue.js</strong> and robust backend systems with <strong>PHP / Laravel</strong>.
+        I'm a full-stack developer dedicated to building clean, maintainable, and high-performance digital products. Specialized in reactive <strong>Vue.js</strong> interfaces and scalable <strong>PHP / Laravel</strong> backends.
       </p>
       <ul>
         <li>💼 <strong>Current Role:</strong> Web Developer @ <em>ES Print Media Inc.</em></li>
         <li>🚀 <strong>Practice:</strong> Freelance Full-Stack Solutions (2023 — Present)</li>
-        <li>🎓 <strong>Degree:</strong> B.S. Computer Engineering — STI College Batangas</li>
+        <li>🎓 <strong>Education:</strong> B.S. Computer Engineering — STI College Batangas</li>
         <li>📍 <strong>Location:</strong> Philippines 🇵🇭</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Core Capabilities</h3>
       <ul>
-        <li>✨ <strong>Frontend:</strong> Vue 3, TypeScript, React, Tailwind CSS</li>
-        <li>🐘 <strong>Backend:</strong> PHP Laravel, Node.js, Express, REST APIs</li>
+        <li>🎨 <strong>Frontend:</strong> Vue 3, TypeScript, React, Tailwind CSS</li>
+        <li>⚡ <strong>Backend:</strong> PHP Laravel, Node.js, Express, REST APIs</li>
         <li>🗄️ <strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Supabase</li>
-        <li>🛠️ <strong>DevOps:</strong> Docker, Git, CI/CD, Vercel, Netlify</li>
+        <li>🛠️ <strong>DevOps:</strong> Docker, Git, CI/CD Workflows, Vercel, Netlify</li>
       </ul>
       <p align="center">
         <a href="https://abemelwin.github.io/portfolio/">
-          <img src="https://img.shields.io/badge/Explore_Interactive_Portfolio_→-6366F1?style=flat-square" alt="Explore Portfolio" />
+          <img src="https://img.shields.io/badge/Visit_Portfolio_Website_→-6366F1?style=flat-square" alt="Explore Portfolio" />
         </a>
       </p>
     </td>
@@ -69,7 +62,7 @@
 
 ---
 
-### 🛠️ Interactive Tech Stack Matrix
+### 🛠️ Tech Stack & Skills Matrix
 
 <div align="center">
 
@@ -81,22 +74,22 @@
 
 <br />
 
-| Layer | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **🎨 Frontend Mastery** | `Vue.js (2 & 3)`, `TypeScript`, `JavaScript (ES6+)`, `React`, `Next.js`, `Nuxt.js`, `Tailwind CSS`, `GSAP Animations`, `Pinia`, `HTML5 / CSS3` |
-| **⚡ Backend Architecture** | `PHP`, `Laravel Framework`, `Node.js`, `Express.js`, `RESTful APIs`, `GraphQL`, `JWT / OAuth 2.0 Auth` |
+| **🎨 Modern Frontend** | `Vue.js (2 & 3)`, `TypeScript`, `JavaScript (ES6+)`, `React`, `Next.js`, `Nuxt.js`, `Tailwind CSS`, `GSAP`, `Pinia`, `HTML5 / CSS3` |
+| **⚡ Backend & APIs** | `PHP`, `Laravel Framework`, `Node.js`, `Express.js`, `RESTful APIs`, `GraphQL`, `JWT / OAuth 2.0` |
 | **🗄️ Databases & Storage** | `MySQL`, `PostgreSQL`, `MongoDB`, `Supabase`, `Firebase Firestore`, `Database Modeling & ORMs` |
-| **🛠️ DevOps & Services** | `Docker`, `Git & GitHub`, `Postman`, `Vercel`, `Netlify`, `Twilio SMS API`, `Google Apps Script`, `CI/CD Workflows` |
+| **🛠️ DevOps & Services** | `Docker`, `Git & GitHub`, `Postman`, `Vercel`, `Netlify`, `Twilio SMS API`, `Google Apps Script`, `CI/CD` |
 
 ---
 
-### 📂 Featured Projects Showcase
+### 📂 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🏢 Print Media & Enterprise ERP</h4>
-      <p>Comprehensive enterprise resource management system for print production workflows, job order pipelines, and role-based permissions.</p>
+      <p>Enterprise resource management system for print production workflows, job order pipelines, and role-based permissions.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -105,7 +98,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Vue Commerce & Order SPA</h4>
-      <p>Reactive single-page e-commerce application with real-time state management, instant catalog search, and checkout gateway integration.</p>
+      <p>Reactive single-page e-commerce application with real-time state management, instant catalog search, and checkout integration.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue 3" />
@@ -181,5 +174,5 @@
 <br />
 
 <div align="center">
-  <sub>⭐ Designed & Built with precision by <strong>Melwin Dave D. Abe</strong></sub>
+  <sub>⚡ Designed & Crafted with precision by <strong>Melwin Dave D. Abe</strong></sub>
 </div>
