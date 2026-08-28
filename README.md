@@ -88,7 +88,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 Print Media & Enterprise ERP</h4>
+      <h4>🏢ES Print Media & Enterprise ERP</h4>
       <p>Enterprise resource management system for print production workflows, job order pipelines, and role-based permissions.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
