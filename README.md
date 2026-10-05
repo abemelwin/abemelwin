@@ -73,11 +73,15 @@
 
   <div style="display:flex; justify-content:center; margin-top:12px;">
     <div style="display:inline-block; background:rgba(255,255,255,0.02); border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:10px 18px;">
-      <svg width="64" height="64" viewBox="0 0 64 64" aria-label="AWS" role="img" style="display:block; border-radius:12px; background:#f3f4f6; box-shadow:0 0 0 1px rgba(255,255,255,0.08);">
-        <rect x="0" y="0" width="64" height="64" rx="12" fill="#f3f4f6"/>
-        <text x="32" y="38" text-anchor="middle" fill="#111827" font-size="18" font-weight="700" font-family="Arial, sans-serif">aws</text>
-        <path d="M24 47 C26 42, 30 39, 34 39 C37 39, 41 41, 43 45 C40 47, 34 49, 24 47 Z" fill="#F59E0B"/>
-        <path d="M19 34 C24 31, 28 28, 31 23 C34 19, 39 17, 44 18 C40 20, 37 23, 35 27 C33 31, 31 35, 29 38 C26 39, 22 38, 19 34 Z" fill="#F59E0B" opacity="0.9"/>
+      <svg width="64" height="64" viewBox="0 0 64 64" aria-label="AWS" role="img" style="display:block; border-radius:12px; background:#2c2f36; box-shadow:0 0 0 1px rgba(255,255,255,0.08);">
+        <rect x="0" y="0" width="64" height="64" rx="12" fill="#2c2f36"/>
+        <path d="M27 17 L38 17 L49 26 L49 38 L38 47 L27 47 L16 38 L16 26 Z" fill="#f3f4f6" opacity="0.15"/>
+        <path d="M22 26 L32 18 L42 26 L42 38 L32 46 L22 38 Z" fill="#f3f4f6" opacity="0.08"/>
+        <path d="M16 28 L24 24 L24 28 L21 30 L21 38 L16 41 Z" fill="#F59E0B"/>
+        <path d="M48 28 L40 24 L40 28 L43 30 L43 38 L48 41 Z" fill="#F59E0B"/>
+        <path d="M32 18 L24 28 L32 38 L40 28 Z" fill="#ffb11a"/>
+        <path d="M19 39 L32 30 L45 39 L32 48 Z" fill="#f59e0b"/>
+        <text x="32" y="39" text-anchor="middle" fill="#111827" font-size="12" font-weight="800" font-family="Arial, sans-serif" letter-spacing="0.5">aws</text>
       </svg>
     </div>
   </div>
