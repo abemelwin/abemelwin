@@ -74,7 +74,7 @@
   <br />
   <br />
 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS" />
+  <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="120" />
 
 </div>
 
