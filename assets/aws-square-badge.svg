@@ -1,6 +1,6 @@
 <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AWS">
-  <rect width="64" height="64" rx="14" fill="#f4f5f7"/>
-  <text x="32" y="34" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#232f3e" letter-spacing="-1">aws</text>
-  <path d="M12 43 C16 38, 22 35, 30 34 C38 33, 45 35, 52 42 C47 45, 41 47, 32 48 C23 48, 16 46, 12 43 Z" fill="#f59e0b"/>
-  <path d="M11 42 C17 36, 22 31, 28 29 C33 27, 40 26, 46 27 C40 31, 35 35, 32 39 C28 42, 24 45, 20 47 C15 47, 12 46, 11 42 Z" fill="#ff9900" opacity="0.96"/>
+  <rect width="64" height="64" rx="14" fill="#f2f4f6"/>
+  <text x="32" y="33" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#232f3e" letter-spacing="-1">aws</text>
+  <path d="M11 43 C17 38, 22 37, 28 37 C32 37, 36 39, 40 41 C43 39, 47 37, 52 37 C48 41, 44 44, 39 46 C33 48, 27 48, 22 46 C18 45, 14 44, 11 43 Z" fill="#f59e0b"/>
+  <path d="M10 42 C16 36, 22 32, 28 30 C36 28, 46 29, 53 35" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
