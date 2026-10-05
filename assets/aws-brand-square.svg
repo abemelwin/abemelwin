@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AWS">
+  <rect width="64" height="64" rx="14" fill="#2a2f38"/>
+  <text x="32" y="39" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#f3f4f6" letter-spacing="-1">aws</text>
+  <path d="M13 39 C18 34, 24 31, 31 31 C38 31, 44 34, 49 39 C43 43, 37 45, 31 45 C25 45, 19 43, 13 39 Z" fill="#F59E0B"/>
+  <path d="M11 39 C18 34, 25 29, 31 25 C36 22, 42 21, 49 22 C43 25, 38 29, 34 33 C30 36, 27 39, 24 42 C20 43, 16 42, 11 39 Z" fill="#FFB11A" opacity="0.96"/>
+</svg>
