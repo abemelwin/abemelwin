@@ -74,7 +74,7 @@
   <br />
   <br />
 
-  <img src="assets/Amazon_Web_Services_Logo-kl.png" alt="AWS logo" width="180" style="display:block; margin:0 auto;" />
+  <img src="assets/aws-square-badge.svg" alt="AWS" width="64" height="64" style="display:block; margin:0 auto; border-radius:14px; box-shadow:0 0 0 1px rgba(255,255,255,0.08);" />
 
 </div>
 
