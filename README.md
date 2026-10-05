@@ -72,7 +72,9 @@
   </a>
 
   <div style="display:flex; justify-content:center; margin-top:12px;">
-    <img src="assets/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="64" height="64" style="display:block; border-radius:12px; background:rgba(255,255,255,0.02); box-shadow:0 0 0 1px rgba(255,255,255,0.08);" />
+    <div style="width:64px; height:64px; border-radius:12px; background:rgba(255,255,255,0.02); box-shadow:0 0 0 1px rgba(255,255,255,0.08); display:flex; align-items:center; justify-content:center; overflow:hidden;">
+      <img src="assets/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="52" height="52" style="display:block; object-fit:contain;" />
+    </div>
   </div>
 
 </div>
