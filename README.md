@@ -73,7 +73,12 @@
 
   <div style="display:flex; justify-content:center; margin-top:12px;">
     <div style="display:inline-block; background:rgba(255,255,255,0.02); border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:10px 18px;">
-      <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="64" height="64" style="display:block; border-radius:12px; background:rgba(255,255,255,0.06); padding:8px; box-shadow:0 0 0 1px rgba(255,255,255,0.08);" />
+      <svg width="64" height="64" viewBox="0 0 64 64" aria-label="AWS" role="img" style="display:block; border-radius:12px; background:#f3f4f6; box-shadow:0 0 0 1px rgba(255,255,255,0.08);">
+        <rect x="0" y="0" width="64" height="64" rx="12" fill="#f3f4f6"/>
+        <text x="32" y="38" text-anchor="middle" fill="#111827" font-size="18" font-weight="700" font-family="Arial, sans-serif">aws</text>
+        <path d="M24 47 C26 42, 30 39, 34 39 C37 39, 41 41, 43 45 C40 47, 34 49, 24 47 Z" fill="#F59E0B"/>
+        <path d="M19 34 C24 31, 28 28, 31 23 C34 19, 39 17, 44 18 C40 20, 37 23, 35 27 C33 31, 31 35, 29 38 C26 39, 22 38, 19 34 Z" fill="#F59E0B" opacity="0.9"/>
+      </svg>
     </div>
   </div>
 
