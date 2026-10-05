@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AWS Cloud">
+  <rect width="64" height="64" rx="14" fill="#2a2f38"/>
+  <path d="M15 37 C17 32, 22 29, 28 29 C32 25, 39 24, 45 27 C49 30, 52 35, 52 40 C52 45, 48 49, 42 49 L22 49 C16 49, 12 45, 12 40 C12 39, 12 38, 13 37 Z" fill="#F59E0B" opacity="0.88"/>
+  <path d="M14 39 C18 36, 22 34, 27 34 C30 31, 35 29, 40 30 C43 33, 45 36, 46 39 C42 41, 37 42, 31 42 C25 42, 19 41, 14 39 Z" fill="#FFB11A"/>
+  <path d="M23 39 L30 33 L37 39 L30 45 Z" fill="#2a2f38" opacity="0.9"/>
+</svg>
