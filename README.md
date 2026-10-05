@@ -69,14 +69,8 @@
 
   <a href="https://abemelwin.github.io/portfolio/">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vue,php,laravel,nodejs,express,postgresql,mysql,supabase,firebase,prisma,docker,git,github,vercel&perline=12" alt="Tech Skills Grid" />
+    <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="64" height="64" style="vertical-align:middle; margin-left:10px; border-radius:14px; background:rgba(255,255,255,0.06); padding:8px; box-shadow:0 0 0 1px rgba(255,255,255,0.08);" />
   </a>
-
-  <br />
-  <br />
-
-  <div style="display:inline-block; width:64px; height:64px; border-radius:14px; background:rgba(255,255,255,0.06); box-shadow:0 0 0 1px rgba(255,255,255,0.08); display:flex; align-items:center; justify-content:center; overflow:hidden;">
-    <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png" alt="AWS" width="44" height="44" style="object-fit:contain; display:block;" />
-  </div>
 
 </div>
 
